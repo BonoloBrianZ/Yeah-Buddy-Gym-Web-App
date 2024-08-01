@@ -1,0 +1,7 @@
+"Yeah Buddy!" is a web application designed specifically for the local gym called YB Gym. This gym has been facing difficulties in attracting new members due to the lack of a website and an online database to efficiently manage their membership database. As a newly established business, it is crucial for YB Gym to establish an online presence and streamline their operations, and that's where this web application comes in.
+
+The primary purpose of "Yeah Buddy!" is to provide the YB Gym's administration with the necessary tools to effectively manage their members. The admin has the capability to add new members, view existing member profiles, update member information, and delete member accounts . This functionality ensures that all member-related data is organized and easily accessible, contributing to a more efficient and professional gym management system.
+
+Furthermore, "Yeah Buddy!" offers a signup process for individuals who are interested in becoming members of the YB Gym.
+
+Another significant functionality provided by the web application is the gym calendar. Existing members can access the calendar, which showcases important dates, events, and classes offered at the YB Gym. This feature allows members to stay up-to-date with the gym's schedule and plan their workouts accordingly. By offering a clear and accessible overview of the various activities happening at the gym, the calendar enhances the member experience.
